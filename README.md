@@ -46,6 +46,11 @@ git remote rm "repository name"
 git remote
 ```
 
+#### commit 추가
+```
+git commit -m "message"
+```
+
 #### 현재 상태 확인
 ```
 git status
