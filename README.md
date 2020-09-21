@@ -6,9 +6,14 @@ git config --global user.name "name"
 git config --global user.email "email"
 ```
 
-#### 폴더 경로 변경
+#### 디렉토리 변경
 ```
 cd "path"
+```
+
+#### 현재 디렉토리에 있는 파일 및 폴더 확인
+```
+ls
 ```
 
 #### local repository 생성
