@@ -8,7 +8,7 @@ git config --global user.email "email"
 
 #### 폴더 경로 변경
 ```
-cd "adress"
+cd "path"
 ```
 
 #### remote repository 추가
