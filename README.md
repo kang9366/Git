@@ -36,6 +36,11 @@ git remote rename "old name" "new name"
 git remote rm "repository name"
 ```
 
+#### 현재 생성된 remote repository 확인
+```
+git remote
+```
+
 #### 현재 상태 확인
 ```
 git status
