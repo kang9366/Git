@@ -11,6 +11,11 @@ git config --global user.email "email"
 cd "path"
 ```
 
+#### 원격 repository 내려받기
+```
+git clone "repository address"
+```
+
 #### remote repository 추가
 ```
 git remote add "remote repository name" "git hub repository address"
