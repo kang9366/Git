@@ -6,6 +6,11 @@ git config --global user.name "name"
 git config --global user.email "email"
 ```
 
+#### 폴더 경로 변경
+```
+cd "adress"
+```
+
 #### remote repository 추가
 ```
 git remote add "remote repository name" "git hub repository address"
