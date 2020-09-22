@@ -16,17 +16,17 @@ cd "path"
 ls
 ```
 
-#### local repository 생성
+#### 현재 디렉토리에 local repository 생성
 ```
 git init
 ```
 
-#### 원격 repository 내려받기
+#### remote repository 내려받기
 ```
 git clone "repository address"
 ```
 
-#### remote repository 추가
+#### remote repository 연동
 ```
 git remote add "remote repository name" "github repository url"
 ```
@@ -44,6 +44,12 @@ git remote rm "repository name"
 #### 현재 생성된 remote repository 확인
 ```
 git remote
+git remote -v
+```
+
+#### remote repository 정보 확인
+```
+git remote show "name"
 ```
 
 #### commit 추가
