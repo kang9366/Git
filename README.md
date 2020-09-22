@@ -55,3 +55,17 @@ git commit -m "message"
 ```
 git status
 ```
+
+#### 파일 or 폴더 삭제
+```
+git rm -r  --cached "file name"
+```
+#### push
+```
+git push "remote repository name" master
+```
+
+#### pull
+```
+git pull "remote repository name" master
+```
