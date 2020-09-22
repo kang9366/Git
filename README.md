@@ -69,3 +69,8 @@ git push "remote repository name" master
 ```
 git pull "remote repository name" master
 ```
+
+#### commit 리스트 확인
+```
+git log
+```
