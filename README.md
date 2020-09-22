@@ -28,7 +28,7 @@ git clone "repository address"
 
 #### remote repository 추가
 ```
-git remote add "remote repository name" "git hub repository address"
+git remote add "remote repository name" "github repository url"
 ```
 
 #### remote repository 이름 변경
